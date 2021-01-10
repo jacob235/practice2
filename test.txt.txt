@@ -4,15 +4,12 @@ dev
 12
 
 
-<<<<<<< HEAD
 main again
 
 
 commit again
-=======
 
 
 
 
 devvvv 
->>>>>>> dev
